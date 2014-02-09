@@ -1,0 +1,30 @@
+{
+  "uuid": "d7f1ed67-4fde-4947-85e7-82e04ebf6c0f",
+  "shortName": "TL",
+  "longName": "TL",
+  "companyName": "rsdev",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "capabilities": [ "location" ],
+  "appKeys": {
+    "index": 0,
+    "id": 1,
+    "name": 2,
+    "distance": 3,
+    "line": 4,
+    "timeleft": 5,
+    "dest": 6
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "LOGO_TL",
+        "file": "img/logo.png"
+      }
+    ]
+  }
+}
